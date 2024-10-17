@@ -1,1 +1,1 @@
-fastagency[autogen,mesop,openapi,fastagency]
+fastagency[autogen,mesop,openapi,fastagency,server]>=0.3
